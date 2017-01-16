@@ -1,0 +1,49 @@
+.completedTodo {
+    text-decoration : line-through;
+    color : forestgreen;
+}
+
+.heading {
+    padding: 1%;
+    /*margin-right: 10px;*/
+    font-size: 40px;
+    font-family: Arial;
+    font-weight: 500;
+    text-align: center;
+    border: 1px solid black;
+    background: lightgray;
+}
+
+.todo-app-div {
+    border: 1px solid #000000;
+    padding : 2%;
+    background: linear-gradient(gray, whitesmoke);
+}
+
+.todo-form {
+    border: 1px solid #000000;
+    padding : 1%;
+    background: white;
+}
+
+.todo-list {
+    margin-top: 10%;
+}
+
+.add-button {
+    width: 50%;
+    cursor: pointer !important;
+}
+
+.dataTables_length {
+    margin-top: 5%;
+}
+
+.input-field {
+    width: 100%;
+}
+
+.input-field-date {
+    width: 100%;
+    line-height: 22px !important;
+}
